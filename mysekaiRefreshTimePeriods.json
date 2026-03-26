@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "startHour": 12,
+        "endHour": 24
+    },
+    {
+        "id": 2,
+        "startHour": 24,
+        "endHour": 36
+    }
+]

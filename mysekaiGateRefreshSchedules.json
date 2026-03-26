@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "fromHour": 12,
+        "fromMinute": 0,
+        "toHour": 24,
+        "toMinute": 0
+    },
+    {
+        "id": 2,
+        "fromHour": 0,
+        "fromMinute": 0,
+        "toHour": 12,
+        "toMinute": 0
+    }
+]

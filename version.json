@@ -1,0 +1,16 @@
+{
+  "app_version": "5.2.0",
+  "app_hash": "499ad5c9-a04b-49a7-b3ac-214c2354b74a",
+  "data_version": "5.2.0.1",
+  "asset_version": "5.2.0.1",
+  "asset_hash": "86dca579-fa4f-4a3e-bd7d-541c0340d9d3",
+  "suitemaster_path": [
+    "suitemasterfile/5.2.0.1/00_284010c9b2b7930a680eadfbff028b05d84717f3e38b3ad9f543487b7b0bb600",
+    "suitemasterfile/5.2.0.1/01_284010c9b2b7930a680eadfbff028b05d84717f3e38b3ad9f543487b7b0bb600",
+    "suitemasterfile/5.2.0.1/02_284010c9b2b7930a680eadfbff028b05d84717f3e38b3ad9f543487b7b0bb600",
+    "suitemasterfile/5.2.0.1/03_284010c9b2b7930a680eadfbff028b05d84717f3e38b3ad9f543487b7b0bb600",
+    "suitemasterfile/5.2.0.1/04_284010c9b2b7930a680eadfbff028b05d84717f3e38b3ad9f543487b7b0bb600",
+    "suitemasterfile/5.2.0.1/05_284010c9b2b7930a680eadfbff028b05d84717f3e38b3ad9f543487b7b0bb600",
+    "suitemasterfile/5.2.0.1/06_284010c9b2b7930a680eadfbff028b05d84717f3e38b3ad9f543487b7b0bb600"
+  ]
+}
